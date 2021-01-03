@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "name": "PRODUCT - 1",
+    "image": "1.jpg",
+    "price": "5.000",
+    "preprice": "6.500",
+    "rate": 4,
+    "spesifications": [
+      { "value": "20", "label": "Ekran Boyutu" },
+      { "value": "20", "label": "Çözünürlük" },
+      { "value": "20", "label": "Bağlantı" },
+      { "value": "20", "label": "Yenileme Hızı" },
+      { "value": "20", "label": "Parlaklık" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "PRODUCT - 2",
+    "image": "2.jpg",
+    "price": "4.500",
+    "preprice": "4.800",
+    "rate": 2,
+    "star": 5,
+    "spesifications": [
+      { "value": "20", "label": "Ekran Boyutu" },
+      { "value": "20", "label": "Çözünürlük" },
+      { "value": "20", "label": "Bağlantı" },
+      { "value": "20", "label": "Yenileme Hızı" },
+      { "value": "20", "label": "Parlaklık" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "PRODUCT - 3",
+    "image": "3.jpg",
+    "price": "250,00",
+    "rate": 1,
+    "star": 2,
+    "spesifications": [
+      { "value": "20", "label": "Ekran Boyutu" },
+      { "value": "20", "label": "Çözünürlük" },
+      { "value": "20", "label": "Bağlantı" },
+      { "value": "20", "label": "Yenileme Hızı" },
+      { "value": "20", "label": "Parlaklık" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "PRODUCT - 4",
+    "image": "1.jpg",
+    "price": "5.000",
+    "preprice": "6.500",
+    "rate": 4,
+    "star": 4,
+    "spesifications": [
+      { "value": "20", "label": "Ekran Boyutu" },
+      { "value": "20", "label": "Çözünürlük" },
+      { "value": "20", "label": "Bağlantı" },
+      { "value": "20", "label": "Yenileme Hızı" },
+      { "value": "20", "label": "Parlaklık" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "PRODUCT - 5",
+    "image": "2.jpg",
+    "price": "4.500",
+    "preprice": "4.800",
+    "rate": 2,
+    "star": 3,
+    "spesifications": [
+      { "value": "20", "label": "Ekran Boyutu" },
+      { "value": "20", "label": "Çözünürlük" },
+      { "value": "20", "label": "Bağlantı" },
+      { "value": "20", "label": "Yenileme Hızı" },
+      { "value": "20", "label": "Parlaklık" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "PRODUCT - 6",
+    "image": "3.jpg",
+    "star": 3,
+    "spesifications": [
+      { "value": "20", "label": "Ekran Boyutu" },
+      { "value": "20", "label": "Çözünürlük" },
+      { "value": "20", "label": "Bağlantı" },
+      { "value": "20", "label": "Yenileme Hızı" },
+      { "value": "20", "label": "Parlaklık" }
+    ],
+
+    "price": "250,00",
+    "rate": 1
+  }
+]

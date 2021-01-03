@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Adidas",
+    "icon": "",
+    "image": "adidas.png"
+  },
+  {
+    "id": 1,
+    "name": "Defacto",
+    "icon": "",
+    "image": "defacto.png"
+  },
+  {
+    "id": 1,
+    "name": "Koton",
+    "icon": "",
+    "image": "koton.png"
+  },
+  {
+    "id": 2,
+    "name": "LC Waikiki",
+    "icon": "",
+    "image": "lcw.png"
+  },
+  {
+    "id": 3,
+    "name": "Nike",
+    "icon": "",
+    "image": "nike.png"
+  },
+  {
+    "id": 4,
+    "name": "Pull&Bear",
+    "icon": "",
+    "image": "pullbear.png"
+  },
+  {
+    "id": 5,
+    "name": "Mavi",
+    "icon": "",
+    "image": "mavi.png"
+  },
+  {
+    "id": 6,
+    "name": "Adidas",
+    "icon": "",
+    "image": "adidas.png"
+  },
+  {
+    "id": 7,
+    "name": "Defacto",
+    "icon": "",
+    "image": "defacto.png"
+  },
+  {
+    "id": 8,
+    "name": "Koton",
+    "icon": "",
+    "image": "koton.png"
+  },
+  {
+    "id": 9,
+    "name": "LC Waikiki",
+    "icon": "",
+    "image": "lcw.png"
+  },
+  {
+    "id": 10,
+    "name": "Nike",
+    "icon": "",
+    "image": "nike.png"
+  },
+  {
+    "id": 11,
+    "name": "Pull&Bear",
+    "icon": "",
+    "image": "pullbear.png"
+  },
+  {
+    "id": 12,
+    "name": "Mavi",
+    "icon": "",
+    "image": "mavi.png"
+  }
+]
